@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "migrate.sh"
-hash = "6deab59812e6f906b8bf960dc95c2c0d0cfdb523f8a7835452df4598e33cafb8"
-
-[[files]]
-file = "modlist.md"
-hash = "365dc965843c365fbb991b7487e530488d373975cdc264dfd16ad32878a2f0a6"
-
-[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "cbce99e396e7237be263e91001785d9811f4e7133dd0e556ab7c646ea37b20f3"
 metafile = true
