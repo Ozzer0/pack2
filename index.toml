@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "migrate.sh"
+hash = "6deab59812e6f906b8bf960dc95c2c0d0cfdb523f8a7835452df4598e33cafb8"
+
+[[files]]
+file = "modlist.md"
+hash = "365dc965843c365fbb991b7487e530488d373975cdc264dfd16ad32878a2f0a6"
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "cbce99e396e7237be263e91001785d9811f4e7133dd0e556ab7c646ea37b20f3"
 metafile = true
@@ -132,7 +140,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "0c20fea3407ed0db85b4b171f1820a24987f2659946fadd30bae044205041b09"
+hash = "735d3423ac6d73ff627997e3130c300fa06abf0bcbf0a1215323020e6176d235"
 metafile = true
 
 [[files]]
@@ -242,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/ssrd.pw.toml"
-hash = "4a4c0c54b3b38ac660b9c06d8dc8e51ed3e2efc6dd94ad3e807a48146a420873"
+hash = "f9575ec3d579369b991bd8193f8a990f9ee243c37fa0428c0a6e45eb288c1658"
 metafile = true
 
 [[files]]
