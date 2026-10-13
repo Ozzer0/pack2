@@ -51,6 +51,11 @@ hash = "2bc2ae339d2161f2c2c8b5f0b54f44ada9c1f58354c53e5f093916b18cf8d7f4"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics-transmission-linkage.pw.toml"
+hash = "fd78380d12b73953fccdf69abd7449233fcce19244dc34378e1f9a1147a976c8"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics.pw.toml"
 hash = "3b8895369640b2a52d3e05f7186185ba6798e44d513f11c5427a0fe9c16769e9"
 metafile = true
